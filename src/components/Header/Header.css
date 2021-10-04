@@ -1,0 +1,15 @@
+.navlink{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navlink li{
+    list-style: none;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.navlink li:hover{
+    border-bottom: 2px solid goldenrod;
+}
